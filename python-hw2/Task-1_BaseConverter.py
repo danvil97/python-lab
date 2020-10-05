@@ -1,3 +1,6 @@
+# Создайте приложение для перевода из одной системы счисления в другую
+
+
 def convert_dec_bin(input_number):
     num_list = []
     while input_number >= 1:
